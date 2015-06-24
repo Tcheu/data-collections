@@ -1,0 +1,2492 @@
+[
+    {
+        "iso": "ad",
+        "name": "Andorra",
+        "fr": {
+            "label": "Andorre"
+        },
+        "en": {
+            "label": "Andorra"
+        }
+    },
+    {
+        "iso": "ae",
+        "name": "United Arab Emirates",
+        "fr": {
+            "label": "\u00c9mirats Arabes Unis"
+        },
+        "en": {
+            "label": "United Arab Emirates"
+        }
+    },
+    {
+        "iso": "af",
+        "name": "Afghanistan",
+        "fr": {
+            "label": "Afghanistan"
+        },
+        "en": {
+            "label": "Afghanistan"
+        }
+    },
+    {
+        "iso": "ag",
+        "name": "Antigua and Barbuda",
+        "fr": {
+            "label": "Antigua-Et-Barbuda"
+        },
+        "en": {
+            "label": "Antigua and Barbuda"
+        }
+    },
+    {
+        "iso": "ai",
+        "name": "Anguilla",
+        "fr": {
+            "label": "Anguilla"
+        },
+        "en": {
+            "label": "Anguilla"
+        }
+    },
+    {
+        "iso": "al",
+        "name": "Albania",
+        "fr": {
+            "label": "Albanie"
+        },
+        "en": {
+            "label": "Albania"
+        }
+    },
+    {
+        "iso": "am",
+        "name": "Armenia",
+        "fr": {
+            "label": "Arm\u00e9nie"
+        },
+        "en": {
+            "label": "Armenia"
+        }
+    },
+    {
+        "iso": "ao",
+        "name": "Angola",
+        "fr": {
+            "label": "Angola"
+        },
+        "en": {
+            "label": "Angola"
+        }
+    },
+    {
+        "iso": "aq",
+        "name": "Antarctica",
+        "fr": {
+            "label": "Antarctique"
+        },
+        "en": {
+            "label": "Antarctica"
+        }
+    },
+    {
+        "iso": "ar",
+        "name": "Argentina",
+        "fr": {
+            "label": "Argentine"
+        },
+        "en": {
+            "label": "Argentina"
+        }
+    },
+    {
+        "iso": "as",
+        "name": "American Samoa",
+        "fr": {
+            "label": "Samoa Am\u00e9ricaines"
+        },
+        "en": {
+            "label": "American Samoa"
+        }
+    },
+    {
+        "iso": "at",
+        "name": "Austria",
+        "fr": {
+            "label": "Autriche"
+        },
+        "en": {
+            "label": "Austria"
+        }
+    },
+    {
+        "iso": "au",
+        "name": "Australia",
+        "fr": {
+            "label": "Australie"
+        },
+        "en": {
+            "label": "Australia"
+        }
+    },
+    {
+        "iso": "aw",
+        "name": "Aruba",
+        "fr": {
+            "label": "Aruba"
+        },
+        "en": {
+            "label": "Aruba"
+        }
+    },
+    {
+        "iso": "ax",
+        "name": "\u00c5land Islands",
+        "fr": {
+            "label": "\u00c5land, \u00celes"
+        },
+        "en": {
+            "label": "\u00c5land Islands"
+        }
+    },
+    {
+        "iso": "az",
+        "name": "Azerbaijan",
+        "fr": {
+            "label": "Azerba\u00efdjan"
+        },
+        "en": {
+            "label": "Azerbaijan"
+        }
+    },
+    {
+        "iso": "ba",
+        "name": "Bosnia and Herzegovina",
+        "fr": {
+            "label": "Bosnie-Herz\u00e9govine"
+        },
+        "en": {
+            "label": "Bosnia and Herzegovina"
+        }
+    },
+    {
+        "iso": "bb",
+        "name": "Barbados",
+        "fr": {
+            "label": "Barbade"
+        },
+        "en": {
+            "label": "Barbados"
+        }
+    },
+    {
+        "iso": "bd",
+        "name": "Bangladesh",
+        "fr": {
+            "label": "Bangladesh"
+        },
+        "en": {
+            "label": "Bangladesh"
+        }
+    },
+    {
+        "iso": "be",
+        "name": "Belgium",
+        "fr": {
+            "label": "Belgique"
+        },
+        "en": {
+            "label": "Belgium"
+        }
+    },
+    {
+        "iso": "bf",
+        "name": "Burkina Faso",
+        "fr": {
+            "label": "Burkina Faso"
+        },
+        "en": {
+            "label": "Burkina Faso"
+        }
+    },
+    {
+        "iso": "bg",
+        "name": "Bulgaria",
+        "fr": {
+            "label": "Bulgarie"
+        },
+        "en": {
+            "label": "Bulgaria"
+        }
+    },
+    {
+        "iso": "bh",
+        "name": "Bahrain",
+        "fr": {
+            "label": "Bahre\u00efn"
+        },
+        "en": {
+            "label": "Bahrain"
+        }
+    },
+    {
+        "iso": "bi",
+        "name": "Burundi",
+        "fr": {
+            "label": "Burundi"
+        },
+        "en": {
+            "label": "Burundi"
+        }
+    },
+    {
+        "iso": "bj",
+        "name": "Benin",
+        "fr": {
+            "label": "B\u00e9nin"
+        },
+        "en": {
+            "label": "Benin"
+        }
+    },
+    {
+        "iso": "bl",
+        "name": "Saint Barth\u00e9lemy",
+        "fr": {
+            "label": "Saint-Barth\u00e9lemy"
+        },
+        "en": {
+            "label": "Saint Barth\u00e9lemy"
+        }
+    },
+    {
+        "iso": "bm",
+        "name": "Bermuda",
+        "fr": {
+            "label": "Bermudes"
+        },
+        "en": {
+            "label": "Bermuda"
+        }
+    },
+    {
+        "iso": "bn",
+        "name": "Brunei Darussalam",
+        "fr": {
+            "label": "Brun\u00e9i Darussalam"
+        },
+        "en": {
+            "label": "Brunei Darussalam"
+        }
+    },
+    {
+        "iso": "bo",
+        "name": "Bolivia (Plurinational State of)",
+        "fr": {
+            "label": "Bolivie, \u00c9tat Plurinational De"
+        },
+        "en": {
+            "label": "Bolivia (Plurinational State of)"
+        }
+    },
+    {
+        "iso": "bq",
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "fr": {
+            "label": "Bonaire, Saint-Eustache Et Saba"
+        },
+        "en": {
+            "label": "Bonaire, Sint Eustatius and Saba"
+        }
+    },
+    {
+        "iso": "br",
+        "name": "Brazil",
+        "fr": {
+            "label": "Br\u00e9sil"
+        },
+        "en": {
+            "label": "Brazil"
+        }
+    },
+    {
+        "iso": "bs",
+        "name": "Bahamas",
+        "fr": {
+            "label": "Bahamas"
+        },
+        "en": {
+            "label": "Bahamas"
+        }
+    },
+    {
+        "iso": "bt",
+        "name": "Bhutan",
+        "fr": {
+            "label": "Bhoutan"
+        },
+        "en": {
+            "label": "Bhutan"
+        }
+    },
+    {
+        "iso": "bv",
+        "name": "Bouvet Island",
+        "fr": {
+            "label": "Bouvet, \u00cele"
+        },
+        "en": {
+            "label": "Bouvet Island"
+        }
+    },
+    {
+        "iso": "bw",
+        "name": "Botswana",
+        "fr": {
+            "label": "Botswana"
+        },
+        "en": {
+            "label": "Botswana"
+        }
+    },
+    {
+        "iso": "by",
+        "name": "Belarus",
+        "fr": {
+            "label": "B\u00e9larus"
+        },
+        "en": {
+            "label": "Belarus"
+        }
+    },
+    {
+        "iso": "bz",
+        "name": "Belize",
+        "fr": {
+            "label": "Belize"
+        },
+        "en": {
+            "label": "Belize"
+        }
+    },
+    {
+        "iso": "ca",
+        "name": "Canada",
+        "fr": {
+            "label": "Canada"
+        },
+        "en": {
+            "label": "Canada"
+        }
+    },
+    {
+        "iso": "cc",
+        "name": "Cocos (Keeling) Islands",
+        "fr": {
+            "label": "Cocos (KEELING), \u00celes"
+        },
+        "en": {
+            "label": "Cocos (Keeling) Islands"
+        }
+    },
+    {
+        "iso": "cd",
+        "name": "Congo (Democratic Republic of the)",
+        "fr": {
+            "label": "Congo, La R\u00e9publique D\u00e9mocratique Du"
+        },
+        "en": {
+            "label": "Congo (Democratic Republic of the)"
+        }
+    },
+    {
+        "iso": "cf",
+        "name": "Central African Republic",
+        "fr": {
+            "label": "Centrafricaine, R\u00e9publique"
+        },
+        "en": {
+            "label": "Central African Republic"
+        }
+    },
+    {
+        "iso": "cg",
+        "name": "Congo",
+        "fr": {
+            "label": "Congo"
+        },
+        "en": {
+            "label": "Congo"
+        }
+    },
+    {
+        "iso": "ch",
+        "name": "Switzerland",
+        "fr": {
+            "label": "Suisse"
+        },
+        "en": {
+            "label": "Switzerland"
+        }
+    },
+    {
+        "iso": "ci",
+        "name": "C\u00f4te d'Ivoire",
+        "fr": {
+            "label": "C\u00f4te D\u2019ivoire"
+        },
+        "en": {
+            "label": "C\u00f4te d'Ivoire"
+        }
+    },
+    {
+        "iso": "ck",
+        "name": "Cook Islands",
+        "fr": {
+            "label": "Cook, \u00celes"
+        },
+        "en": {
+            "label": "Cook Islands"
+        }
+    },
+    {
+        "iso": "cl",
+        "name": "Chile",
+        "fr": {
+            "label": "Chili"
+        },
+        "en": {
+            "label": "Chile"
+        }
+    },
+    {
+        "iso": "cm",
+        "name": "Cameroon",
+        "fr": {
+            "label": "Cameroun"
+        },
+        "en": {
+            "label": "Cameroon"
+        }
+    },
+    {
+        "iso": "cn",
+        "name": "China",
+        "fr": {
+            "label": "Chine"
+        },
+        "en": {
+            "label": "China"
+        }
+    },
+    {
+        "iso": "co",
+        "name": "Colombia",
+        "fr": {
+            "label": "Colombie"
+        },
+        "en": {
+            "label": "Colombia"
+        }
+    },
+    {
+        "iso": "cr",
+        "name": "Costa Rica",
+        "fr": {
+            "label": "Costa Rica"
+        },
+        "en": {
+            "label": "Costa Rica"
+        }
+    },
+    {
+        "iso": "cu",
+        "name": "Cuba",
+        "fr": {
+            "label": "Cuba"
+        },
+        "en": {
+            "label": "Cuba"
+        }
+    },
+    {
+        "iso": "cv",
+        "name": "Cabo Verde",
+        "fr": {
+            "label": "Cabo Verde"
+        },
+        "en": {
+            "label": "Cabo Verde"
+        }
+    },
+    {
+        "iso": "cw",
+        "name": "Cura\u00e7ao",
+        "fr": {
+            "label": "Cura\u00e7ao"
+        },
+        "en": {
+            "label": "Cura\u00e7ao"
+        }
+    },
+    {
+        "iso": "cx",
+        "name": "Christmas Island",
+        "fr": {
+            "label": "Christmas, \u00cele"
+        },
+        "en": {
+            "label": "Christmas Island"
+        }
+    },
+    {
+        "iso": "cy",
+        "name": "Cyprus",
+        "fr": {
+            "label": "Chypre"
+        },
+        "en": {
+            "label": "Cyprus"
+        }
+    },
+    {
+        "iso": "cz",
+        "name": "Czech Republic",
+        "fr": {
+            "label": "Tch\u00e8que, R\u00e9publique"
+        },
+        "en": {
+            "label": "Czech Republic"
+        }
+    },
+    {
+        "iso": "de",
+        "name": "Germany",
+        "fr": {
+            "label": "Allemagne"
+        },
+        "en": {
+            "label": "Germany"
+        }
+    },
+    {
+        "iso": "dj",
+        "name": "Djibouti",
+        "fr": {
+            "label": "Djibouti"
+        },
+        "en": {
+            "label": "Djibouti"
+        }
+    },
+    {
+        "iso": "dk",
+        "name": "Denmark",
+        "fr": {
+            "label": "Danemark"
+        },
+        "en": {
+            "label": "Denmark"
+        }
+    },
+    {
+        "iso": "dm",
+        "name": "Dominica",
+        "fr": {
+            "label": "Dominique"
+        },
+        "en": {
+            "label": "Dominica"
+        }
+    },
+    {
+        "iso": "do",
+        "name": "Dominican Republic",
+        "fr": {
+            "label": "Dominicaine, R\u00e9publique"
+        },
+        "en": {
+            "label": "Dominican Republic"
+        }
+    },
+    {
+        "iso": "dz",
+        "name": "Algeria",
+        "fr": {
+            "label": "Alg\u00e9rie"
+        },
+        "en": {
+            "label": "Algeria"
+        }
+    },
+    {
+        "iso": "ec",
+        "name": "Ecuador",
+        "fr": {
+            "label": "\u00c9quateur"
+        },
+        "en": {
+            "label": "Ecuador"
+        }
+    },
+    {
+        "iso": "ee",
+        "name": "Estonia",
+        "fr": {
+            "label": "Estonie"
+        },
+        "en": {
+            "label": "Estonia"
+        }
+    },
+    {
+        "iso": "eg",
+        "name": "Egypt",
+        "fr": {
+            "label": "\u00c9gypte"
+        },
+        "en": {
+            "label": "Egypt"
+        }
+    },
+    {
+        "iso": "eh",
+        "name": "Western Sahara",
+        "fr": {
+            "label": "Sahara Occidental"
+        },
+        "en": {
+            "label": "Western Sahara"
+        }
+    },
+    {
+        "iso": "er",
+        "name": "Eritrea",
+        "fr": {
+            "label": "\u00c9rythr\u00e9e"
+        },
+        "en": {
+            "label": "Eritrea"
+        }
+    },
+    {
+        "iso": "es",
+        "name": "Spain",
+        "fr": {
+            "label": "Espagne"
+        },
+        "en": {
+            "label": "Spain"
+        }
+    },
+    {
+        "iso": "et",
+        "name": "Ethiopia",
+        "fr": {
+            "label": "\u00c9thiopie"
+        },
+        "en": {
+            "label": "Ethiopia"
+        }
+    },
+    {
+        "iso": "fi",
+        "name": "Finland",
+        "fr": {
+            "label": "Finlande"
+        },
+        "en": {
+            "label": "Finland"
+        }
+    },
+    {
+        "iso": "fj",
+        "name": "Fiji",
+        "fr": {
+            "label": "Fidji"
+        },
+        "en": {
+            "label": "Fiji"
+        }
+    },
+    {
+        "iso": "fk",
+        "name": "Falkland Islands (Malvinas)",
+        "fr": {
+            "label": "Falkland, \u00celes (MALVINAS)"
+        },
+        "en": {
+            "label": "Falkland Islands (Malvinas)"
+        }
+    },
+    {
+        "iso": "fm",
+        "name": "Micronesia (Federated States of)",
+        "fr": {
+            "label": "Micron\u00e9sie, \u00c9tats F\u00e9d\u00e9r\u00e9s De"
+        },
+        "en": {
+            "label": "Micronesia (Federated States of)"
+        }
+    },
+    {
+        "iso": "fo",
+        "name": "Faroe Islands",
+        "fr": {
+            "label": "F\u00e9ro\u00e9, iles"
+        },
+        "en": {
+            "label": "Faroe Islands"
+        }
+    },
+    {
+        "iso": "fr",
+        "name": "France",
+        "fr": {
+            "label": "France"
+        },
+        "en": {
+            "label": "France"
+        }
+    },
+    {
+        "iso": "ga",
+        "name": "Gabon",
+        "fr": {
+            "label": "Gabon"
+        },
+        "en": {
+            "label": "Gabon"
+        }
+    },
+    {
+        "iso": "gb",
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "fr": {
+            "label": "Royaume-Uni"
+        },
+        "en": {
+            "label": "United Kingdom of Great Britain and Northern Ireland"
+        }
+    },
+    {
+        "iso": "gd",
+        "name": "Grenada",
+        "fr": {
+            "label": "Grenade"
+        },
+        "en": {
+            "label": "Grenada"
+        }
+    },
+    {
+        "iso": "ge",
+        "name": "Georgia",
+        "fr": {
+            "label": "G\u00e9orgie"
+        },
+        "en": {
+            "label": "Georgia"
+        }
+    },
+    {
+        "iso": "gf",
+        "name": "French Guiana",
+        "fr": {
+            "label": "Guyane Fran\u00e7aise"
+        },
+        "en": {
+            "label": "French Guiana"
+        }
+    },
+    {
+        "iso": "gg",
+        "name": "Guernsey",
+        "fr": {
+            "label": "Guernesey"
+        },
+        "en": {
+            "label": "Guernsey"
+        }
+    },
+    {
+        "iso": "gh",
+        "name": "Ghana",
+        "fr": {
+            "label": "Ghana"
+        },
+        "en": {
+            "label": "Ghana"
+        }
+    },
+    {
+        "iso": "gi",
+        "name": "Gibraltar",
+        "fr": {
+            "label": "Gibraltar"
+        },
+        "en": {
+            "label": "Gibraltar"
+        }
+    },
+    {
+        "iso": "gl",
+        "name": "Greenland",
+        "fr": {
+            "label": "Groenland"
+        },
+        "en": {
+            "label": "Greenland"
+        }
+    },
+    {
+        "iso": "gm",
+        "name": "Gambia",
+        "fr": {
+            "label": "Gambie"
+        },
+        "en": {
+            "label": "Gambia"
+        }
+    },
+    {
+        "iso": "gn",
+        "name": "Guinea",
+        "fr": {
+            "label": "Guin\u00e9e"
+        },
+        "en": {
+            "label": "Guinea"
+        }
+    },
+    {
+        "iso": "gp",
+        "name": "Guadeloupe",
+        "fr": {
+            "label": "Guadeloupe"
+        },
+        "en": {
+            "label": "Guadeloupe"
+        }
+    },
+    {
+        "iso": "gq",
+        "name": "Equatorial Guinea",
+        "fr": {
+            "label": "Guin\u00e9e \u00c9quatoriale"
+        },
+        "en": {
+            "label": "Equatorial Guinea"
+        }
+    },
+    {
+        "iso": "gr",
+        "name": "Greece",
+        "fr": {
+            "label": "Gr\u00e8ce"
+        },
+        "en": {
+            "label": "Greece"
+        }
+    },
+    {
+        "iso": "gs",
+        "name": "South Georgia and the South Sandwich Islands",
+        "fr": {
+            "label": "G\u00e9orgie Du Sud Et Les \u00celes Sandwich Du Sud"
+        },
+        "en": {
+            "label": "South Georgia and the South Sandwich Islands"
+        }
+    },
+    {
+        "iso": "gt",
+        "name": "Guatemala",
+        "fr": {
+            "label": "Guatemala"
+        },
+        "en": {
+            "label": "Guatemala"
+        }
+    },
+    {
+        "iso": "gu",
+        "name": "Guam",
+        "fr": {
+            "label": "Guam"
+        },
+        "en": {
+            "label": "Guam"
+        }
+    },
+    {
+        "iso": "gw",
+        "name": "Guinea-Bissau",
+        "fr": {
+            "label": "Guin\u00e9e-Bissau"
+        },
+        "en": {
+            "label": "Guinea-Bissau"
+        }
+    },
+    {
+        "iso": "gy",
+        "name": "Guyana",
+        "fr": {
+            "label": "Guyana"
+        },
+        "en": {
+            "label": "Guyana"
+        }
+    },
+    {
+        "iso": "hk",
+        "name": "Hong Kong",
+        "fr": {
+            "label": "Hong Kong"
+        },
+        "en": {
+            "label": "Hong Kong"
+        }
+    },
+    {
+        "iso": "hm",
+        "name": "Heard Island and McDonald Islands",
+        "fr": {
+            "label": "Heard Et Macdonald, \u00celes"
+        },
+        "en": {
+            "label": "Heard Island and McDonald Islands"
+        }
+    },
+    {
+        "iso": "hn",
+        "name": "Honduras",
+        "fr": {
+            "label": "Honduras"
+        },
+        "en": {
+            "label": "Honduras"
+        }
+    },
+    {
+        "iso": "hr",
+        "name": "Croatia",
+        "fr": {
+            "label": "Croatie"
+        },
+        "en": {
+            "label": "Croatia"
+        }
+    },
+    {
+        "iso": "ht",
+        "name": "Haiti",
+        "fr": {
+            "label": "Ha\u00efti"
+        },
+        "en": {
+            "label": "Haiti"
+        }
+    },
+    {
+        "iso": "hu",
+        "name": "Hungary",
+        "fr": {
+            "label": "Hongrie"
+        },
+        "en": {
+            "label": "Hungary"
+        }
+    },
+    {
+        "iso": "id",
+        "name": "Indonesia",
+        "fr": {
+            "label": "Indon\u00e9sie"
+        },
+        "en": {
+            "label": "Indonesia"
+        }
+    },
+    {
+        "iso": "ie",
+        "name": "Ireland",
+        "fr": {
+            "label": "Irlande"
+        },
+        "en": {
+            "label": "Ireland"
+        }
+    },
+    {
+        "iso": "il",
+        "name": "Israel",
+        "fr": {
+            "label": "Isra\u00ebl"
+        },
+        "en": {
+            "label": "Israel"
+        }
+    },
+    {
+        "iso": "im",
+        "name": "Isle of Man",
+        "fr": {
+            "label": "\u00cele De Man"
+        },
+        "en": {
+            "label": "Isle of Man"
+        }
+    },
+    {
+        "iso": "in",
+        "name": "India",
+        "fr": {
+            "label": "Inde"
+        },
+        "en": {
+            "label": "India"
+        }
+    },
+    {
+        "iso": "io",
+        "name": "British Indian Ocean Territory",
+        "fr": {
+            "label": "Oc\u00e9an Indien, Territoire Britannique De L'"
+        },
+        "en": {
+            "label": "British Indian Ocean Territory"
+        }
+    },
+    {
+        "iso": "iq",
+        "name": "Iraq",
+        "fr": {
+            "label": "Iraq"
+        },
+        "en": {
+            "label": "Iraq"
+        }
+    },
+    {
+        "iso": "ir",
+        "name": "Iran (Islamic Republic of)",
+        "fr": {
+            "label": "Iran, R\u00e9publique Islamique D'"
+        },
+        "en": {
+            "label": "Iran (Islamic Republic of)"
+        }
+    },
+    {
+        "iso": "is",
+        "name": "Iceland",
+        "fr": {
+            "label": "Islande"
+        },
+        "en": {
+            "label": "Iceland"
+        }
+    },
+    {
+        "iso": "it",
+        "name": "Italy",
+        "fr": {
+            "label": "Italie"
+        },
+        "en": {
+            "label": "Italy"
+        }
+    },
+    {
+        "iso": "je",
+        "name": "Jersey",
+        "fr": {
+            "label": "Jersey"
+        },
+        "en": {
+            "label": "Jersey"
+        }
+    },
+    {
+        "iso": "jm",
+        "name": "Jamaica",
+        "fr": {
+            "label": "Jama\u00efque"
+        },
+        "en": {
+            "label": "Jamaica"
+        }
+    },
+    {
+        "iso": "jo",
+        "name": "Jordan",
+        "fr": {
+            "label": "Jordanie"
+        },
+        "en": {
+            "label": "Jordan"
+        }
+    },
+    {
+        "iso": "jp",
+        "name": "Japan",
+        "fr": {
+            "label": "Japon"
+        },
+        "en": {
+            "label": "Japan"
+        }
+    },
+    {
+        "iso": "ke",
+        "name": "Kenya",
+        "fr": {
+            "label": "Kenya"
+        },
+        "en": {
+            "label": "Kenya"
+        }
+    },
+    {
+        "iso": "kg",
+        "name": "Kyrgyzstan",
+        "fr": {
+            "label": "Kirghizistan"
+        },
+        "en": {
+            "label": "Kyrgyzstan"
+        }
+    },
+    {
+        "iso": "kh",
+        "name": "Cambodia",
+        "fr": {
+            "label": "Cambodge"
+        },
+        "en": {
+            "label": "Cambodia"
+        }
+    },
+    {
+        "iso": "ki",
+        "name": "Kiribati",
+        "fr": {
+            "label": "Kiribati"
+        },
+        "en": {
+            "label": "Kiribati"
+        }
+    },
+    {
+        "iso": "km",
+        "name": "Comoros",
+        "fr": {
+            "label": "Comores"
+        },
+        "en": {
+            "label": "Comoros"
+        }
+    },
+    {
+        "iso": "kn",
+        "name": "Saint Kitts and Nevis",
+        "fr": {
+            "label": "Saint-Kitts-Et-Nevis"
+        },
+        "en": {
+            "label": "Saint Kitts and Nevis"
+        }
+    },
+    {
+        "iso": "kp",
+        "name": "Korea (Democratic People's Republic of)",
+        "fr": {
+            "label": "Cor\u00e9e, R\u00e9publique Populaire D\u00e9mocratique De"
+        },
+        "en": {
+            "label": "Korea (Democratic People's Republic of)"
+        }
+    },
+    {
+        "iso": "kr",
+        "name": "Korea (Republic of)",
+        "fr": {
+            "label": "Cor\u00e9e, R\u00e9publique De"
+        },
+        "en": {
+            "label": "Korea (Republic of)"
+        }
+    },
+    {
+        "iso": "kw",
+        "name": "Kuwait",
+        "fr": {
+            "label": "Kowe\u00eft"
+        },
+        "en": {
+            "label": "Kuwait"
+        }
+    },
+    {
+        "iso": "ky",
+        "name": "Cayman Islands",
+        "fr": {
+            "label": "Ca\u00efmanes, \u00celes"
+        },
+        "en": {
+            "label": "Cayman Islands"
+        }
+    },
+    {
+        "iso": "kz",
+        "name": "Kazakhstan",
+        "fr": {
+            "label": "Kazakhstan"
+        },
+        "en": {
+            "label": "Kazakhstan"
+        }
+    },
+    {
+        "iso": "la",
+        "name": "Lao People's Democratic Republic",
+        "fr": {
+            "label": "Lao, R\u00e9publique D\u00e9mocratique Populaire"
+        },
+        "en": {
+            "label": "Lao People's Democratic Republic"
+        }
+    },
+    {
+        "iso": "lb",
+        "name": "Lebanon",
+        "fr": {
+            "label": "Liban"
+        },
+        "en": {
+            "label": "Lebanon"
+        }
+    },
+    {
+        "iso": "lc",
+        "name": "Saint Lucia",
+        "fr": {
+            "label": "Sainte-Lucie"
+        },
+        "en": {
+            "label": "Saint Lucia"
+        }
+    },
+    {
+        "iso": "li",
+        "name": "Liechtenstein",
+        "fr": {
+            "label": "Liechtenstein"
+        },
+        "en": {
+            "label": "Liechtenstein"
+        }
+    },
+    {
+        "iso": "lk",
+        "name": "Sri Lanka",
+        "fr": {
+            "label": "Sri Lanka"
+        },
+        "en": {
+            "label": "Sri Lanka"
+        }
+    },
+    {
+        "iso": "lr",
+        "name": "Liberia",
+        "fr": {
+            "label": "Lib\u00e9ria"
+        },
+        "en": {
+            "label": "Liberia"
+        }
+    },
+    {
+        "iso": "ls",
+        "name": "Lesotho",
+        "fr": {
+            "label": "Lesotho"
+        },
+        "en": {
+            "label": "Lesotho"
+        }
+    },
+    {
+        "iso": "lt",
+        "name": "Lithuania",
+        "fr": {
+            "label": "Lituanie"
+        },
+        "en": {
+            "label": "Lithuania"
+        }
+    },
+    {
+        "iso": "lu",
+        "name": "Luxembourg",
+        "fr": {
+            "label": "Luxembourg"
+        },
+        "en": {
+            "label": "Luxembourg"
+        }
+    },
+    {
+        "iso": "lv",
+        "name": "Latvia",
+        "fr": {
+            "label": "Lettonie"
+        },
+        "en": {
+            "label": "Latvia"
+        }
+    },
+    {
+        "iso": "ly",
+        "name": "Libya",
+        "fr": {
+            "label": "Libye"
+        },
+        "en": {
+            "label": "Libya"
+        }
+    },
+    {
+        "iso": "ma",
+        "name": "Morocco",
+        "fr": {
+            "label": "Maroc"
+        },
+        "en": {
+            "label": "Morocco"
+        }
+    },
+    {
+        "iso": "mc",
+        "name": "Monaco",
+        "fr": {
+            "label": "Monaco"
+        },
+        "en": {
+            "label": "Monaco"
+        }
+    },
+    {
+        "iso": "md",
+        "name": "Moldova (Republic of)",
+        "fr": {
+            "label": "Moldova"
+        },
+        "en": {
+            "label": "Moldova (Republic of)"
+        }
+    },
+    {
+        "iso": "me",
+        "name": "Montenegro",
+        "fr": {
+            "label": "Mont\u00e9n\u00e9gro"
+        },
+        "en": {
+            "label": "Montenegro"
+        }
+    },
+    {
+        "iso": "mf",
+        "name": "Saint Martin (French part)",
+        "fr": {
+            "label": "Saint-Martin (PARTIE Fran\u00e7aise)"
+        },
+        "en": {
+            "label": "Saint Martin (French part)"
+        }
+    },
+    {
+        "iso": "mg",
+        "name": "Madagascar",
+        "fr": {
+            "label": "Madagascar"
+        },
+        "en": {
+            "label": "Madagascar"
+        }
+    },
+    {
+        "iso": "mh",
+        "name": "Marshall Islands",
+        "fr": {
+            "label": "Marshall, \u00celes"
+        },
+        "en": {
+            "label": "Marshall Islands"
+        }
+    },
+    {
+        "iso": "mk",
+        "name": "Macedonia (the former Yugoslav Republic of)",
+        "fr": {
+            "label": "Mac\u00e9doine, L'ex-R\u00e9publique Yougoslave De"
+        },
+        "en": {
+            "label": "Macedonia (the former Yugoslav Republic of)"
+        }
+    },
+    {
+        "iso": "ml",
+        "name": "Mali",
+        "fr": {
+            "label": "Mali"
+        },
+        "en": {
+            "label": "Mali"
+        }
+    },
+    {
+        "iso": "mm",
+        "name": "Myanmar",
+        "fr": {
+            "label": "Myanmar"
+        },
+        "en": {
+            "label": "Myanmar"
+        }
+    },
+    {
+        "iso": "mn",
+        "name": "Mongolia",
+        "fr": {
+            "label": "Mongolie"
+        },
+        "en": {
+            "label": "Mongolia"
+        }
+    },
+    {
+        "iso": "mo",
+        "name": "Macao",
+        "fr": {
+            "label": "Macao"
+        },
+        "en": {
+            "label": "Macao"
+        }
+    },
+    {
+        "iso": "mp",
+        "name": "Northern Mariana Islands",
+        "fr": {
+            "label": "Mariannes Du Nord, \u00celes"
+        },
+        "en": {
+            "label": "Northern Mariana Islands"
+        }
+    },
+    {
+        "iso": "mq",
+        "name": "Martinique",
+        "fr": {
+            "label": "Martinique"
+        },
+        "en": {
+            "label": "Martinique"
+        }
+    },
+    {
+        "iso": "mr",
+        "name": "Mauritania",
+        "fr": {
+            "label": "Mauritanie"
+        },
+        "en": {
+            "label": "Mauritania"
+        }
+    },
+    {
+        "iso": "ms",
+        "name": "Montserrat",
+        "fr": {
+            "label": "Montserrat"
+        },
+        "en": {
+            "label": "Montserrat"
+        }
+    },
+    {
+        "iso": "mt",
+        "name": "Malta",
+        "fr": {
+            "label": "Malte"
+        },
+        "en": {
+            "label": "Malta"
+        }
+    },
+    {
+        "iso": "mu",
+        "name": "Mauritius",
+        "fr": {
+            "label": "Maurice"
+        },
+        "en": {
+            "label": "Mauritius"
+        }
+    },
+    {
+        "iso": "mv",
+        "name": "Maldives",
+        "fr": {
+            "label": "Maldives"
+        },
+        "en": {
+            "label": "Maldives"
+        }
+    },
+    {
+        "iso": "mw",
+        "name": "Malawi",
+        "fr": {
+            "label": "Malawi"
+        },
+        "en": {
+            "label": "Malawi"
+        }
+    },
+    {
+        "iso": "mx",
+        "name": "Mexico",
+        "fr": {
+            "label": "Mexique"
+        },
+        "en": {
+            "label": "Mexico"
+        }
+    },
+    {
+        "iso": "my",
+        "name": "Malaysia",
+        "fr": {
+            "label": "Malaisie"
+        },
+        "en": {
+            "label": "Malaysia"
+        }
+    },
+    {
+        "iso": "mz",
+        "name": "Mozambique",
+        "fr": {
+            "label": "Mozambique"
+        },
+        "en": {
+            "label": "Mozambique"
+        }
+    },
+    {
+        "iso": "na",
+        "name": "Namibia",
+        "fr": {
+            "label": "Namibie"
+        },
+        "en": {
+            "label": "Namibia"
+        }
+    },
+    {
+        "iso": "nc",
+        "name": "New Caledonia",
+        "fr": {
+            "label": "Nouvelle-Cal\u00e9donie"
+        },
+        "en": {
+            "label": "New Caledonia"
+        }
+    },
+    {
+        "iso": "ne",
+        "name": "Niger",
+        "fr": {
+            "label": "Niger"
+        },
+        "en": {
+            "label": "Niger"
+        }
+    },
+    {
+        "iso": "nf",
+        "name": "Norfolk Island",
+        "fr": {
+            "label": "Norfolk, \u00cele"
+        },
+        "en": {
+            "label": "Norfolk Island"
+        }
+    },
+    {
+        "iso": "ng",
+        "name": "Nigeria",
+        "fr": {
+            "label": "Nig\u00e9ria"
+        },
+        "en": {
+            "label": "Nigeria"
+        }
+    },
+    {
+        "iso": "ni",
+        "name": "Nicaragua",
+        "fr": {
+            "label": "Nicaragua"
+        },
+        "en": {
+            "label": "Nicaragua"
+        }
+    },
+    {
+        "iso": "nl",
+        "name": "Netherlands",
+        "fr": {
+            "label": "Pays-Bas"
+        },
+        "en": {
+            "label": "Netherlands"
+        }
+    },
+    {
+        "iso": "no",
+        "name": "Norway",
+        "fr": {
+            "label": "Norv\u00e8ge"
+        },
+        "en": {
+            "label": "Norway"
+        }
+    },
+    {
+        "iso": "np",
+        "name": "Nepal",
+        "fr": {
+            "label": "N\u00e9pal"
+        },
+        "en": {
+            "label": "Nepal"
+        }
+    },
+    {
+        "iso": "nr",
+        "name": "Nauru",
+        "fr": {
+            "label": "Nauru"
+        },
+        "en": {
+            "label": "Nauru"
+        }
+    },
+    {
+        "iso": "nu",
+        "name": "Niue",
+        "fr": {
+            "label": "Niu\u00e9"
+        },
+        "en": {
+            "label": "Niue"
+        }
+    },
+    {
+        "iso": "nz",
+        "name": "New Zealand",
+        "fr": {
+            "label": "Nouvelle-Z\u00e9lande"
+        },
+        "en": {
+            "label": "New Zealand"
+        }
+    },
+    {
+        "iso": "om",
+        "name": "Oman",
+        "fr": {
+            "label": "Oman"
+        },
+        "en": {
+            "label": "Oman"
+        }
+    },
+    {
+        "iso": "pa",
+        "name": "Panama",
+        "fr": {
+            "label": "Panama"
+        },
+        "en": {
+            "label": "Panama"
+        }
+    },
+    {
+        "iso": "pe",
+        "name": "Peru",
+        "fr": {
+            "label": "P\u00e9rou"
+        },
+        "en": {
+            "label": "Peru"
+        }
+    },
+    {
+        "iso": "pf",
+        "name": "French Polynesia",
+        "fr": {
+            "label": "Polyn\u00e9sie Fran\u00e7aise"
+        },
+        "en": {
+            "label": "French Polynesia"
+        }
+    },
+    {
+        "iso": "pg",
+        "name": "Papua New Guinea",
+        "fr": {
+            "label": "Papouasie-Nouvelle-Guin\u00e9e"
+        },
+        "en": {
+            "label": "Papua New Guinea"
+        }
+    },
+    {
+        "iso": "ph",
+        "name": "Philippines",
+        "fr": {
+            "label": "Philippines"
+        },
+        "en": {
+            "label": "Philippines"
+        }
+    },
+    {
+        "iso": "pk",
+        "name": "Pakistan",
+        "fr": {
+            "label": "Pakistan"
+        },
+        "en": {
+            "label": "Pakistan"
+        }
+    },
+    {
+        "iso": "pl",
+        "name": "Poland",
+        "fr": {
+            "label": "Pologne"
+        },
+        "en": {
+            "label": "Poland"
+        }
+    },
+    {
+        "iso": "pm",
+        "name": "Saint Pierre and Miquelon",
+        "fr": {
+            "label": "Saint-Pierre-Et-Miquelon"
+        },
+        "en": {
+            "label": "Saint Pierre and Miquelon"
+        }
+    },
+    {
+        "iso": "pn",
+        "name": "Pitcairn",
+        "fr": {
+            "label": "Pitcairn"
+        },
+        "en": {
+            "label": "Pitcairn"
+        }
+    },
+    {
+        "iso": "pr",
+        "name": "Puerto Rico",
+        "fr": {
+            "label": "Porto Rico"
+        },
+        "en": {
+            "label": "Puerto Rico"
+        }
+    },
+    {
+        "iso": "ps",
+        "name": "Palestine, State of",
+        "fr": {
+            "label": "\u00c9tat De Palestine"
+        },
+        "en": {
+            "label": "Palestine, State of"
+        }
+    },
+    {
+        "iso": "pt",
+        "name": "Portugal",
+        "fr": {
+            "label": "Portugal"
+        },
+        "en": {
+            "label": "Portugal"
+        }
+    },
+    {
+        "iso": "pw",
+        "name": "Palau",
+        "fr": {
+            "label": "Palaos"
+        },
+        "en": {
+            "label": "Palau"
+        }
+    },
+    {
+        "iso": "py",
+        "name": "Paraguay",
+        "fr": {
+            "label": "Paraguay"
+        },
+        "en": {
+            "label": "Paraguay"
+        }
+    },
+    {
+        "iso": "qa",
+        "name": "Qatar",
+        "fr": {
+            "label": "Qatar"
+        },
+        "en": {
+            "label": "Qatar"
+        }
+    },
+    {
+        "iso": "re",
+        "name": "R\u00e9union",
+        "fr": {
+            "label": "R\u00e9union"
+        },
+        "en": {
+            "label": "R\u00e9union"
+        }
+    },
+    {
+        "iso": "ro",
+        "name": "Romania",
+        "fr": {
+            "label": "Roumanie"
+        },
+        "en": {
+            "label": "Romania"
+        }
+    },
+    {
+        "iso": "rs",
+        "name": "Serbia",
+        "fr": {
+            "label": "Serbie"
+        },
+        "en": {
+            "label": "Serbia"
+        }
+    },
+    {
+        "iso": "ru",
+        "name": "Russian Federation",
+        "fr": {
+            "label": "Russie, F\u00e9d\u00e9ration De"
+        },
+        "en": {
+            "label": "Russian Federation"
+        }
+    },
+    {
+        "iso": "rw",
+        "name": "Rwanda",
+        "fr": {
+            "label": "Rwanda"
+        },
+        "en": {
+            "label": "Rwanda"
+        }
+    },
+    {
+        "iso": "sa",
+        "name": "Saudi Arabia",
+        "fr": {
+            "label": "Arabie Saoudite"
+        },
+        "en": {
+            "label": "Saudi Arabia"
+        }
+    },
+    {
+        "iso": "sb",
+        "name": "Solomon Islands",
+        "fr": {
+            "label": "Salomon, \u00celes"
+        },
+        "en": {
+            "label": "Solomon Islands"
+        }
+    },
+    {
+        "iso": "sc",
+        "name": "Seychelles",
+        "fr": {
+            "label": "Seychelles"
+        },
+        "en": {
+            "label": "Seychelles"
+        }
+    },
+    {
+        "iso": "sd",
+        "name": "Sudan",
+        "fr": {
+            "label": "Soudan"
+        },
+        "en": {
+            "label": "Sudan"
+        }
+    },
+    {
+        "iso": "se",
+        "name": "Sweden",
+        "fr": {
+            "label": "Su\u00e8de"
+        },
+        "en": {
+            "label": "Sweden"
+        }
+    },
+    {
+        "iso": "sg",
+        "name": "Singapore",
+        "fr": {
+            "label": "Singapour"
+        },
+        "en": {
+            "label": "Singapore"
+        }
+    },
+    {
+        "iso": "sh",
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "fr": {
+            "label": "Sainte-H\u00e9l\u00e8ne, Ascension Et Tristan Da Cunha"
+        },
+        "en": {
+            "label": "Saint Helena, Ascension and Tristan da Cunha"
+        }
+    },
+    {
+        "iso": "si",
+        "name": "Slovenia",
+        "fr": {
+            "label": "Slov\u00e9nie"
+        },
+        "en": {
+            "label": "Slovenia"
+        }
+    },
+    {
+        "iso": "sj",
+        "name": "Svalbard and Jan Mayen",
+        "fr": {
+            "label": "Svalbard Et \u00cele Jan Mayen"
+        },
+        "en": {
+            "label": "Svalbard and Jan Mayen"
+        }
+    },
+    {
+        "iso": "sk",
+        "name": "Slovakia",
+        "fr": {
+            "label": "Slovaquie"
+        },
+        "en": {
+            "label": "Slovakia"
+        }
+    },
+    {
+        "iso": "sl",
+        "name": "Sierra Leone",
+        "fr": {
+            "label": "Sierra Leone"
+        },
+        "en": {
+            "label": "Sierra Leone"
+        }
+    },
+    {
+        "iso": "sm",
+        "name": "San Marino",
+        "fr": {
+            "label": "Saint-Marin"
+        },
+        "en": {
+            "label": "San Marino"
+        }
+    },
+    {
+        "iso": "sn",
+        "name": "Senegal",
+        "fr": {
+            "label": "S\u00e9n\u00e9gal"
+        },
+        "en": {
+            "label": "Senegal"
+        }
+    },
+    {
+        "iso": "so",
+        "name": "Somalia",
+        "fr": {
+            "label": "Somalie"
+        },
+        "en": {
+            "label": "Somalia"
+        }
+    },
+    {
+        "iso": "sr",
+        "name": "Suriname",
+        "fr": {
+            "label": "Suriname"
+        },
+        "en": {
+            "label": "Suriname"
+        }
+    },
+    {
+        "iso": "ss",
+        "name": "South Sudan",
+        "fr": {
+            "label": "Soudan Du Sud"
+        },
+        "en": {
+            "label": "South Sudan"
+        }
+    },
+    {
+        "iso": "st",
+        "name": "Sao Tome and Principe",
+        "fr": {
+            "label": "Sao Tom\u00e9-Et-Principe"
+        },
+        "en": {
+            "label": "Sao Tome and Principe"
+        }
+    },
+    {
+        "iso": "sv",
+        "name": "El Salvador",
+        "fr": {
+            "label": "El Salvador"
+        },
+        "en": {
+            "label": "El Salvador"
+        }
+    },
+    {
+        "iso": "sx",
+        "name": "Sint Maarten (Dutch part)",
+        "fr": {
+            "label": "Saint-Martin (PARTIE N\u00e9erlandaise)"
+        },
+        "en": {
+            "label": "Sint Maarten (Dutch part)"
+        }
+    },
+    {
+        "iso": "sy",
+        "name": "Syrian Arab Republic",
+        "fr": {
+            "label": "Syrienne, R\u00e9publique Arabe"
+        },
+        "en": {
+            "label": "Syrian Arab Republic"
+        }
+    },
+    {
+        "iso": "sz",
+        "name": "Swaziland",
+        "fr": {
+            "label": "Swaziland"
+        },
+        "en": {
+            "label": "Swaziland"
+        }
+    },
+    {
+        "iso": "tc",
+        "name": "Turks and Caicos Islands",
+        "fr": {
+            "label": "Turks Et Ca\u00efques, \u00celes"
+        },
+        "en": {
+            "label": "Turks and Caicos Islands"
+        }
+    },
+    {
+        "iso": "td",
+        "name": "Chad",
+        "fr": {
+            "label": "Tchad"
+        },
+        "en": {
+            "label": "Chad"
+        }
+    },
+    {
+        "iso": "tf",
+        "name": "French Southern Territories",
+        "fr": {
+            "label": "Terres Australes Fran\u00e7aises"
+        },
+        "en": {
+            "label": "French Southern Territories"
+        }
+    },
+    {
+        "iso": "tg",
+        "name": "Togo",
+        "fr": {
+            "label": "Togo"
+        },
+        "en": {
+            "label": "Togo"
+        }
+    },
+    {
+        "iso": "th",
+        "name": "Thailand",
+        "fr": {
+            "label": "Tha\u00eflande"
+        },
+        "en": {
+            "label": "Thailand"
+        }
+    },
+    {
+        "iso": "tj",
+        "name": "Tajikistan",
+        "fr": {
+            "label": "Tadjikistan"
+        },
+        "en": {
+            "label": "Tajikistan"
+        }
+    },
+    {
+        "iso": "tk",
+        "name": "Tokelau",
+        "fr": {
+            "label": "Tokelau"
+        },
+        "en": {
+            "label": "Tokelau"
+        }
+    },
+    {
+        "iso": "tl",
+        "name": "Timor-Leste",
+        "fr": {
+            "label": "Timor-Leste"
+        },
+        "en": {
+            "label": "Timor-Leste"
+        }
+    },
+    {
+        "iso": "tm",
+        "name": "Turkmenistan",
+        "fr": {
+            "label": "Turkm\u00e9nistan"
+        },
+        "en": {
+            "label": "Turkmenistan"
+        }
+    },
+    {
+        "iso": "tn",
+        "name": "Tunisia",
+        "fr": {
+            "label": "Tunisie"
+        },
+        "en": {
+            "label": "Tunisia"
+        }
+    },
+    {
+        "iso": "to",
+        "name": "Tonga",
+        "fr": {
+            "label": "Tonga"
+        },
+        "en": {
+            "label": "Tonga"
+        }
+    },
+    {
+        "iso": "tr",
+        "name": "Turkey",
+        "fr": {
+            "label": "Turquie"
+        },
+        "en": {
+            "label": "Turkey"
+        }
+    },
+    {
+        "iso": "tt",
+        "name": "Trinidad and Tobago",
+        "fr": {
+            "label": "Trinit\u00e9-Et-Tobago"
+        },
+        "en": {
+            "label": "Trinidad and Tobago"
+        }
+    },
+    {
+        "iso": "tv",
+        "name": "Tuvalu",
+        "fr": {
+            "label": "Tuvalu"
+        },
+        "en": {
+            "label": "Tuvalu"
+        }
+    },
+    {
+        "iso": "tw",
+        "name": "Taiwan, Province of China",
+        "fr": {
+            "label": "Ta\u00efwan, Province De Chine"
+        },
+        "en": {
+            "label": "Taiwan, Province of China"
+        }
+    },
+    {
+        "iso": "tz",
+        "name": "Tanzania, United Republic of",
+        "fr": {
+            "label": "Tanzanie, R\u00e9publique Unie De"
+        },
+        "en": {
+            "label": "Tanzania, United Republic of"
+        }
+    },
+    {
+        "iso": "ua",
+        "name": "Ukraine",
+        "fr": {
+            "label": "Ukraine"
+        },
+        "en": {
+            "label": "Ukraine"
+        }
+    },
+    {
+        "iso": "ug",
+        "name": "Uganda",
+        "fr": {
+            "label": "Ouganda"
+        },
+        "en": {
+            "label": "Uganda"
+        }
+    },
+    {
+        "iso": "um",
+        "name": "United States Minor Outlying Islands",
+        "fr": {
+            "label": "\u00celes Mineures \u00c9loign\u00e9es Des \u00c9tats-Unis"
+        },
+        "en": {
+            "label": "United States Minor Outlying Islands"
+        }
+    },
+    {
+        "iso": "us",
+        "name": "United States of America",
+        "fr": {
+            "label": "\u00c9tats-Unis"
+        },
+        "en": {
+            "label": "United States of America"
+        }
+    },
+    {
+        "iso": "uy",
+        "name": "Uruguay",
+        "fr": {
+            "label": "Uruguay"
+        },
+        "en": {
+            "label": "Uruguay"
+        }
+    },
+    {
+        "iso": "uz",
+        "name": "Uzbekistan",
+        "fr": {
+            "label": "Ouzb\u00e9kistan"
+        },
+        "en": {
+            "label": "Uzbekistan"
+        }
+    },
+    {
+        "iso": "va",
+        "name": "Holy See",
+        "fr": {
+            "label": "Saint-Si\u00e8ge (\u00c9TAT De La Cit\u00e9 Du Vatican)"
+        },
+        "en": {
+            "label": "Holy See"
+        }
+    },
+    {
+        "iso": "vc",
+        "name": "Saint Vincent and the Grenadines",
+        "fr": {
+            "label": "Saint-Vincent-Et-Les-Grenadines"
+        },
+        "en": {
+            "label": "Saint Vincent and the Grenadines"
+        }
+    },
+    {
+        "iso": "ve",
+        "name": "Venezuela (Bolivarian Republic of)",
+        "fr": {
+            "label": "Venezuela, R\u00e9publique Bolivarienne Du"
+        },
+        "en": {
+            "label": "Venezuela (Bolivarian Republic of)"
+        }
+    },
+    {
+        "iso": "vg",
+        "name": "Virgin Islands (British)",
+        "fr": {
+            "label": "\u00celes Vierges Britanniques"
+        },
+        "en": {
+            "label": "Virgin Islands (British)"
+        }
+    },
+    {
+        "iso": "vi",
+        "name": "Virgin Islands (U.S.)",
+        "fr": {
+            "label": "\u00celes Vierges Des \u00c9tats-Unis"
+        },
+        "en": {
+            "label": "Virgin Islands (U.S.)"
+        }
+    },
+    {
+        "iso": "vn",
+        "name": "Viet Nam",
+        "fr": {
+            "label": "Viet Nam"
+        },
+        "en": {
+            "label": "Viet Nam"
+        }
+    },
+    {
+        "iso": "vu",
+        "name": "Vanuatu",
+        "fr": {
+            "label": "Vanuatu"
+        },
+        "en": {
+            "label": "Vanuatu"
+        }
+    },
+    {
+        "iso": "wf",
+        "name": "Wallis and Futuna",
+        "fr": {
+            "label": "Wallis-Et-Futuna"
+        },
+        "en": {
+            "label": "Wallis and Futuna"
+        }
+    },
+    {
+        "iso": "ws",
+        "name": "Samoa",
+        "fr": {
+            "label": "Samoa"
+        },
+        "en": {
+            "label": "Samoa"
+        }
+    },
+    {
+        "iso": "ye",
+        "name": "Yemen",
+        "fr": {
+            "label": "Y\u00e9men"
+        },
+        "en": {
+            "label": "Yemen"
+        }
+    },
+    {
+        "iso": "yt",
+        "name": "Mayotte",
+        "fr": {
+            "label": "Mayotte"
+        },
+        "en": {
+            "label": "Mayotte"
+        }
+    },
+    {
+        "iso": "za",
+        "name": "South Africa",
+        "fr": {
+            "label": "Afrique Du Sud"
+        },
+        "en": {
+            "label": "South Africa"
+        }
+    },
+    {
+        "iso": "zm",
+        "name": "Zambia",
+        "fr": {
+            "label": "Zambie"
+        },
+        "en": {
+            "label": "Zambia"
+        }
+    },
+    {
+        "iso": "zw",
+        "name": "Zimbabwe",
+        "fr": {
+            "label": "Zimbabwe"
+        },
+        "en": {
+            "label": "Zimbabwe"
+        }
+    }
+]
